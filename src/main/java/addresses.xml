@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addresses>
+    <country>
+        <city size="big">Kyiv</city>
+        <street>Novoaleksandrivska</street>
+        <building>12</building>
+    </country>
+    <country>
+        <city size="big">Dnipro</city>
+        <street>Mayska</street>
+        <building>28</building>
+    </country>
+</addresses>
